@@ -1,0 +1,63 @@
+1
+00:00:03,209 --> 00:00:07,180
+When a compressor trips overnight, guessing between binning a cold
+
+2
+00:00:07,180 --> 00:00:10,309
+room and shipping it costs either product or safety.
+
+3
+00:00:10,759 --> 00:00:14,609
+Ice House draws five stone cold-store chambers where every lot is
+
+4
+00:00:14,609 --> 00:00:17,629
+a block of ice as tall as its remaining shelf life.
+
+5
+00:00:18,662 --> 00:00:22,666
+Scrubbing the seven-day rail back three days shows the compressor
+
+6
+00:00:22,666 --> 00:00:25,622
+trip warming the North Dairy Vault in real time.
+
+7
+00:00:26,423 --> 00:00:30,809
+Switching to the FEFO lens numbers every block by effective
+
+8
+00:00:30,809 --> 00:00:34,303
+expiry rather than the printed date on the box.
+
+9
+00:00:35,114 --> 00:00:38,474
+The Today panel surfaces lots awaiting QA,
+
+10
+00:00:38,474 --> 00:00:41,594
+rooms out of range, and FEFO conflicts.
+
+11
+00:00:42,406 --> 00:00:45,056
+On the Thaw table, QA sees the exact Mean
+
+12
+00:00:45,056 --> 00:00:49,256
+Kinetic Temperature, consumed life, and hours above five degrees.
+
+13
+00:00:49,706 --> 00:00:54,245
+Lots past four hours above five degrees are forced to discard,
+
+14
+00:00:54,245 --> 00:00:58,126
+while safe lots can be released with an audit record.
+
+15
+00:00:58,935 --> 00:01:01,967
+Every reading logged, every excursion scored, and
+
+16
+00:01:01,967 --> 00:01:04,565
+every pick ordered by real remaining life.
